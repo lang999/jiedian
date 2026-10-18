@@ -1,5 +1,5 @@
 {
-  "updated_at_epoch_secs": 1792276459,
+  "updated_at_epoch_secs": 1792307235,
   "records": [
     {
       "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/merged/tested_within_ss.yaml",
@@ -21,53 +21,9 @@
       "total_released_proxy_count": 46,
       "last_released_proxy_count": 46,
       "last_error": null,
-      "first_seen_epoch_secs": 1792269864,
-      "last_seen_epoch_secs": 1792269874,
+      "first_seen_epoch_secs": 1792298708,
+      "last_seen_epoch_secs": 1792298722,
       "score": 83.03284807764092
-    },
-    {
-      "url": "https://subs.2519885.dpdns.org/c/?token=21154442b2581e0a7b36244e8381a8ef",
-      "source_kind": "direct_subscription",
-      "discovered_from_feeds": [],
-      "seen_count": 1,
-      "discover_hits": 0,
-      "feed_scan_count": 0,
-      "fetch_attempts": 1,
-      "fetch_successes": 1,
-      "fetch_empty_results": 0,
-      "total_proxy_count": 131,
-      "max_proxy_count": 131,
-      "last_proxy_count": 131,
-      "total_validated_proxy_count": 43,
-      "last_validated_proxy_count": 43,
-      "total_released_proxy_count": 42,
-      "last_released_proxy_count": 42,
-      "last_error": null,
-      "first_seen_epoch_secs": 1792269860,
-      "last_seen_epoch_secs": 1792269870,
-      "score": 81.33232735664832
-    },
-    {
-      "url": "https://subs.2519885.dpdns.org/c/?token=ce7b0ad8f20c084448d03891f892d848",
-      "source_kind": "direct_subscription",
-      "discovered_from_feeds": [],
-      "seen_count": 1,
-      "discover_hits": 0,
-      "feed_scan_count": 0,
-      "fetch_attempts": 1,
-      "fetch_successes": 1,
-      "fetch_empty_results": 0,
-      "total_proxy_count": 130,
-      "max_proxy_count": 130,
-      "last_proxy_count": 130,
-      "total_validated_proxy_count": 39,
-      "last_validated_proxy_count": 39,
-      "total_released_proxy_count": 38,
-      "last_released_proxy_count": 38,
-      "last_error": null,
-      "first_seen_epoch_secs": 1792269860,
-      "last_seen_epoch_secs": 1792269867,
-      "score": 80.74358974358974
     },
     {
       "url": "https://raw.githubusercontent.com/Barabama/FreeNodes/feat/ai-crawler-v2/nodes/freeclashnode.yaml",
@@ -84,14 +40,58 @@
       "total_proxy_count": 2173,
       "max_proxy_count": 2173,
       "last_proxy_count": 2173,
-      "total_validated_proxy_count": 719,
-      "last_validated_proxy_count": 719,
-      "total_released_proxy_count": 638,
-      "last_released_proxy_count": 638,
+      "total_validated_proxy_count": 894,
+      "last_validated_proxy_count": 894,
+      "total_released_proxy_count": 704,
+      "last_released_proxy_count": 704,
       "last_error": null,
-      "first_seen_epoch_secs": 1792269864,
-      "last_seen_epoch_secs": 1792269879,
-      "score": 80.49101471018383
+      "first_seen_epoch_secs": 1792298708,
+      "last_seen_epoch_secs": 1792298728,
+      "score": 81.10297622540617
+    },
+    {
+      "url": "https://subs.2519885.dpdns.org/c/?token=21154442b2581e0a7b36244e8381a8ef",
+      "source_kind": "direct_subscription",
+      "discovered_from_feeds": [],
+      "seen_count": 1,
+      "discover_hits": 0,
+      "feed_scan_count": 0,
+      "fetch_attempts": 1,
+      "fetch_successes": 1,
+      "fetch_empty_results": 0,
+      "total_proxy_count": 164,
+      "max_proxy_count": 164,
+      "last_proxy_count": 164,
+      "total_validated_proxy_count": 44,
+      "last_validated_proxy_count": 44,
+      "total_released_proxy_count": 43,
+      "last_released_proxy_count": 43,
+      "last_error": null,
+      "first_seen_epoch_secs": 1792298705,
+      "last_seen_epoch_secs": 1792298717,
+      "score": 80.13858093126387
+    },
+    {
+      "url": "https://subs.2519885.dpdns.org/c/?token=ce7b0ad8f20c084448d03891f892d848",
+      "source_kind": "direct_subscription",
+      "discovered_from_feeds": [],
+      "seen_count": 1,
+      "discover_hits": 0,
+      "feed_scan_count": 0,
+      "fetch_attempts": 1,
+      "fetch_successes": 1,
+      "fetch_empty_results": 0,
+      "total_proxy_count": 160,
+      "max_proxy_count": 160,
+      "last_proxy_count": 160,
+      "total_validated_proxy_count": 39,
+      "last_validated_proxy_count": 39,
+      "total_released_proxy_count": 38,
+      "last_released_proxy_count": 38,
+      "last_error": null,
+      "first_seen_epoch_secs": 1792298705,
+      "last_seen_epoch_secs": 1792298713,
+      "score": 79.61858974358974
     },
     {
       "url": "https://subs.2519885.dpdns.org/c/?token=326ad4c90c6d9ac385e09ea68c3c74ab",
@@ -103,17 +103,17 @@
       "fetch_attempts": 1,
       "fetch_successes": 1,
       "fetch_empty_results": 0,
-      "total_proxy_count": 162,
-      "max_proxy_count": 162,
-      "last_proxy_count": 162,
-      "total_validated_proxy_count": 44,
-      "last_validated_proxy_count": 44,
-      "total_released_proxy_count": 42,
-      "last_released_proxy_count": 42,
+      "total_proxy_count": 200,
+      "max_proxy_count": 200,
+      "last_proxy_count": 200,
+      "total_validated_proxy_count": 46,
+      "last_validated_proxy_count": 46,
+      "total_released_proxy_count": 44,
+      "last_released_proxy_count": 44,
       "last_error": null,
-      "first_seen_epoch_secs": 1792269860,
-      "last_seen_epoch_secs": 1792269869,
-      "score": 79.97755331088665
+      "first_seen_epoch_secs": 1792298705,
+      "last_seen_epoch_secs": 1792298714,
+      "score": 79.16521739130435
     },
     {
       "url": "https://subs.2519885.dpdns.org/c/?token=5d25f2afab579ed11ecb0292a1ab7283",
@@ -125,17 +125,17 @@
       "fetch_attempts": 1,
       "fetch_successes": 1,
       "fetch_empty_results": 0,
-      "total_proxy_count": 162,
-      "max_proxy_count": 162,
-      "last_proxy_count": 162,
-      "total_validated_proxy_count": 44,
-      "last_validated_proxy_count": 44,
-      "total_released_proxy_count": 42,
-      "last_released_proxy_count": 42,
+      "total_proxy_count": 200,
+      "max_proxy_count": 200,
+      "last_proxy_count": 200,
+      "total_validated_proxy_count": 46,
+      "last_validated_proxy_count": 46,
+      "total_released_proxy_count": 44,
+      "last_released_proxy_count": 44,
       "last_error": null,
-      "first_seen_epoch_secs": 1792269860,
-      "last_seen_epoch_secs": 1792269869,
-      "score": 79.97755331088665
+      "first_seen_epoch_secs": 1792298705,
+      "last_seen_epoch_secs": 1792298716,
+      "score": 79.16521739130435
     },
     {
       "url": "https://raw.githubusercontent.com/anaer/Sub/main/proxies.yaml",
@@ -152,17 +152,17 @@
       "total_proxy_count": 87,
       "max_proxy_count": 55,
       "last_proxy_count": 32,
-      "total_validated_proxy_count": 34,
-      "last_validated_proxy_count": 23,
+      "total_validated_proxy_count": 35,
+      "last_validated_proxy_count": 24,
       "total_released_proxy_count": 29,
       "last_released_proxy_count": 22,
       "last_error": null,
       "first_seen_epoch_secs": 1775417792,
-      "last_seen_epoch_secs": 1792269865,
-      "score": 78.74550371872887
+      "last_seen_epoch_secs": 1792298709,
+      "score": 78.73169129720854
     },
     {
-      "url": "https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.meta.yml",
+      "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml",
       "source_kind": "direct_subscription",
       "discovered_from_feeds": [],
       "seen_count": 2,
@@ -171,17 +171,17 @@
       "fetch_attempts": 2,
       "fetch_successes": 2,
       "fetch_empty_results": 0,
-      "total_proxy_count": 638,
-      "max_proxy_count": 543,
-      "last_proxy_count": 543,
-      "total_validated_proxy_count": 165,
-      "last_validated_proxy_count": 158,
-      "total_released_proxy_count": 136,
-      "last_released_proxy_count": 130,
+      "total_proxy_count": 599,
+      "max_proxy_count": 596,
+      "last_proxy_count": 596,
+      "total_validated_proxy_count": 155,
+      "last_validated_proxy_count": 155,
+      "total_released_proxy_count": 132,
+      "last_released_proxy_count": 132,
       "last_error": null,
       "first_seen_epoch_secs": 1775417792,
-      "last_seen_epoch_secs": 1792269865,
-      "score": 78.4148380355277
+      "last_seen_epoch_secs": 1792298711,
+      "score": 78.69142118584739
     },
     {
       "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/merged/tested_within_http.yaml",
@@ -203,33 +203,31 @@
       "total_released_proxy_count": 14,
       "last_released_proxy_count": 14,
       "last_error": null,
-      "first_seen_epoch_secs": 1792269864,
-      "last_seen_epoch_secs": 1792269874,
+      "first_seen_epoch_secs": 1792298708,
+      "last_seen_epoch_secs": 1792298721,
       "score": 78.41463414634147
     },
     {
-      "url": "https://raw.githubusercontent.com/Barabama/FreeNodes/feat/ai-crawler-v2/nodes/clashmeta.yaml",
-      "source_kind": "discovered_subscription",
-      "discovered_from_feeds": [
-        "https://github.com/Barabama/FreeNodes/tree/feat/ai-crawler-v2/nodes"
-      ],
-      "seen_count": 1,
+      "url": "https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.meta.yml",
+      "source_kind": "direct_subscription",
+      "discovered_from_feeds": [],
+      "seen_count": 2,
       "discover_hits": 0,
       "feed_scan_count": 0,
-      "fetch_attempts": 1,
-      "fetch_successes": 1,
+      "fetch_attempts": 2,
+      "fetch_successes": 2,
       "fetch_empty_results": 0,
-      "total_proxy_count": 3394,
-      "max_proxy_count": 3394,
-      "last_proxy_count": 3394,
-      "total_validated_proxy_count": 591,
-      "last_validated_proxy_count": 591,
-      "total_released_proxy_count": 556,
-      "last_released_proxy_count": 556,
+      "total_proxy_count": 620,
+      "max_proxy_count": 525,
+      "last_proxy_count": 525,
+      "total_validated_proxy_count": 156,
+      "last_validated_proxy_count": 149,
+      "total_released_proxy_count": 126,
+      "last_released_proxy_count": 120,
       "last_error": null,
-      "first_seen_epoch_secs": 1792269864,
-      "last_seen_epoch_secs": 1792269877,
-      "score": 77.89039979978602
+      "first_seen_epoch_secs": 1775417792,
+      "last_seen_epoch_secs": 1792298710,
+      "score": 78.10918114143921
     },
     {
       "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/merged/tested_within_vmess.yaml",
@@ -246,14 +244,38 @@
       "total_proxy_count": 41,
       "max_proxy_count": 41,
       "last_proxy_count": 41,
-      "total_validated_proxy_count": 12,
-      "last_validated_proxy_count": 12,
-      "total_released_proxy_count": 12,
-      "last_released_proxy_count": 12,
+      "total_validated_proxy_count": 13,
+      "last_validated_proxy_count": 13,
+      "total_released_proxy_count": 13,
+      "last_released_proxy_count": 13,
       "last_error": null,
-      "first_seen_epoch_secs": 1792269864,
-      "last_seen_epoch_secs": 1792269875,
-      "score": 77.25365853658536
+      "first_seen_epoch_secs": 1792298708,
+      "last_seen_epoch_secs": 1792298723,
+      "score": 77.74146341463414
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Barabama/FreeNodes/feat/ai-crawler-v2/nodes/clashmeta.yaml",
+      "source_kind": "discovered_subscription",
+      "discovered_from_feeds": [
+        "https://github.com/Barabama/FreeNodes/tree/feat/ai-crawler-v2/nodes"
+      ],
+      "seen_count": 1,
+      "discover_hits": 0,
+      "feed_scan_count": 0,
+      "fetch_attempts": 1,
+      "fetch_successes": 1,
+      "fetch_empty_results": 0,
+      "total_proxy_count": 3394,
+      "max_proxy_count": 3394,
+      "last_proxy_count": 3394,
+      "total_validated_proxy_count": 732,
+      "last_validated_proxy_count": 732,
+      "total_released_proxy_count": 589,
+      "last_released_proxy_count": 589,
+      "last_error": null,
+      "first_seen_epoch_secs": 1792298708,
+      "last_seen_epoch_secs": 1792298725,
+      "score": 77.35994248931736
     },
     {
       "url": "https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/main/output/clash.yaml",
@@ -267,65 +289,17 @@
       "fetch_attempts": 1,
       "fetch_successes": 1,
       "fetch_empty_results": 0,
-      "total_proxy_count": 1992,
-      "max_proxy_count": 1992,
-      "last_proxy_count": 1992,
-      "total_validated_proxy_count": 259,
-      "last_validated_proxy_count": 259,
-      "total_released_proxy_count": 250,
-      "last_released_proxy_count": 250,
+      "total_proxy_count": 1776,
+      "max_proxy_count": 1776,
+      "last_proxy_count": 1776,
+      "total_validated_proxy_count": 232,
+      "last_validated_proxy_count": 232,
+      "total_released_proxy_count": 222,
+      "last_released_proxy_count": 222,
       "last_error": null,
-      "first_seen_epoch_secs": 1792269860,
-      "last_seen_epoch_secs": 1792269866,
-      "score": 77.25291125893537
-    },
-    {
-      "url": "https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta-2.yaml",
-      "source_kind": "direct_subscription",
-      "discovered_from_feeds": [
-        "https://github.com/snakem982/proxypool/tree/main/source"
-      ],
-      "seen_count": 11,
-      "discover_hits": 0,
-      "feed_scan_count": 0,
-      "fetch_attempts": 6,
-      "fetch_successes": 6,
-      "fetch_empty_results": 0,
-      "total_proxy_count": 404,
-      "max_proxy_count": 75,
-      "last_proxy_count": 62,
-      "total_validated_proxy_count": 80,
-      "last_validated_proxy_count": 8,
-      "total_released_proxy_count": 65,
-      "last_released_proxy_count": 8,
-      "last_error": null,
-      "first_seen_epoch_secs": 1773700902,
-      "last_seen_epoch_secs": 1792269864,
-      "score": 77.08539603960396
-    },
-    {
-      "url": "https://raw.githubusercontent.com/Barabama/FreeNodes/feat/ai-crawler-v2/nodes/nodev2ray.yaml",
-      "source_kind": "discovered_subscription",
-      "discovered_from_feeds": [
-        "https://github.com/Barabama/FreeNodes/tree/feat/ai-crawler-v2/nodes"
-      ],
-      "seen_count": 1,
-      "discover_hits": 0,
-      "feed_scan_count": 0,
-      "fetch_attempts": 1,
-      "fetch_successes": 1,
-      "fetch_empty_results": 0,
-      "total_proxy_count": 5086,
-      "max_proxy_count": 5086,
-      "last_proxy_count": 5086,
-      "total_validated_proxy_count": 692,
-      "last_validated_proxy_count": 692,
-      "total_released_proxy_count": 640,
-      "last_released_proxy_count": 640,
-      "last_error": null,
-      "first_seen_epoch_secs": 1792269864,
-      "last_seen_epoch_secs": 1792269881,
-      "score": 76.9697503517533
+      "first_seen_epoch_secs": 1792298705,
+      "last_seen_epoch_secs": 1792298711,
+      "score": 77.18157812985399
     },
     {
       "url": "https://raw.githubusercontent.com/Barabama/FreeNodes/feat/ai-crawler-v2/nodes/freeclashnode.txt",
@@ -342,14 +316,86 @@
       "total_proxy_count": 1904,
       "max_proxy_count": 1904,
       "last_proxy_count": 1904,
-      "total_validated_proxy_count": 201,
-      "last_validated_proxy_count": 201,
-      "total_released_proxy_count": 192,
-      "last_released_proxy_count": 192,
+      "total_validated_proxy_count": 233,
+      "last_validated_proxy_count": 233,
+      "total_released_proxy_count": 217,
+      "last_released_proxy_count": 217,
       "last_error": null,
-      "first_seen_epoch_secs": 1792269864,
-      "last_seen_epoch_secs": 1792269879,
-      "score": 76.66358334378528
+      "first_seen_epoch_secs": 1792298708,
+      "last_seen_epoch_secs": 1792298727,
+      "score": 76.76078371262669
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Barabama/FreeNodes/feat/ai-crawler-v2/nodes/nodev2ray.yaml",
+      "source_kind": "discovered_subscription",
+      "discovered_from_feeds": [
+        "https://github.com/Barabama/FreeNodes/tree/feat/ai-crawler-v2/nodes"
+      ],
+      "seen_count": 1,
+      "discover_hits": 0,
+      "feed_scan_count": 0,
+      "fetch_attempts": 1,
+      "fetch_successes": 1,
+      "fetch_empty_results": 0,
+      "total_proxy_count": 5086,
+      "max_proxy_count": 5086,
+      "last_proxy_count": 5086,
+      "total_validated_proxy_count": 859,
+      "last_validated_proxy_count": 859,
+      "total_released_proxy_count": 695,
+      "last_released_proxy_count": 695,
+      "last_error": null,
+      "first_seen_epoch_secs": 1792298708,
+      "last_seen_epoch_secs": 1792298730,
+      "score": 76.4687033775751
+    },
+    {
+      "url": "https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta-2.yaml",
+      "source_kind": "direct_subscription",
+      "discovered_from_feeds": [
+        "https://github.com/snakem982/proxypool/tree/main/source"
+      ],
+      "seen_count": 11,
+      "discover_hits": 0,
+      "feed_scan_count": 0,
+      "fetch_attempts": 6,
+      "fetch_successes": 6,
+      "fetch_empty_results": 0,
+      "total_proxy_count": 400,
+      "max_proxy_count": 75,
+      "last_proxy_count": 58,
+      "total_validated_proxy_count": 79,
+      "last_validated_proxy_count": 7,
+      "total_released_proxy_count": 59,
+      "last_released_proxy_count": 2,
+      "last_error": null,
+      "first_seen_epoch_secs": 1773700902,
+      "last_seen_epoch_secs": 1792298709,
+      "score": 76.41835443037974
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/main/output/v2ray-base64.txt",
+      "source_kind": "discovered_subscription",
+      "discovered_from_feeds": [
+        "https://github.com/Au1rxx/free-vpn-subscriptions/tree/main/output"
+      ],
+      "seen_count": 1,
+      "discover_hits": 0,
+      "feed_scan_count": 0,
+      "fetch_attempts": 1,
+      "fetch_successes": 1,
+      "fetch_empty_results": 0,
+      "total_proxy_count": 1776,
+      "max_proxy_count": 1776,
+      "last_proxy_count": 1776,
+      "total_validated_proxy_count": 130,
+      "last_validated_proxy_count": 130,
+      "total_released_proxy_count": 128,
+      "last_released_proxy_count": 128,
+      "last_error": null,
+      "first_seen_epoch_secs": 1792298708,
+      "last_seen_epoch_secs": 1792298724,
+      "score": 76.31011781011782
     },
     {
       "url": "https://raw.githubusercontent.com/Barabama/FreeNodes/feat/ai-crawler-v2/nodes/merged.yaml",
@@ -366,84 +412,14 @@
       "total_proxy_count": 4721,
       "max_proxy_count": 4721,
       "last_proxy_count": 4721,
-      "total_validated_proxy_count": 648,
-      "last_validated_proxy_count": 648,
-      "total_released_proxy_count": 556,
-      "last_released_proxy_count": 556,
+      "total_validated_proxy_count": 850,
+      "last_validated_proxy_count": 850,
+      "total_released_proxy_count": 621,
+      "last_released_proxy_count": 621,
       "last_error": null,
-      "first_seen_epoch_secs": 1792269860,
-      "last_seen_epoch_secs": 1792269866,
-      "score": 76.32542801927819
-    },
-    {
-      "url": "https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/main/output/v2ray-base64.txt",
-      "source_kind": "discovered_subscription",
-      "discovered_from_feeds": [
-        "https://github.com/Au1rxx/free-vpn-subscriptions/tree/main/output"
-      ],
-      "seen_count": 1,
-      "discover_hits": 0,
-      "feed_scan_count": 0,
-      "fetch_attempts": 1,
-      "fetch_successes": 1,
-      "fetch_empty_results": 0,
-      "total_proxy_count": 1992,
-      "max_proxy_count": 1992,
-      "last_proxy_count": 1992,
-      "total_validated_proxy_count": 154,
-      "last_validated_proxy_count": 154,
-      "total_released_proxy_count": 150,
-      "last_released_proxy_count": 150,
-      "last_error": null,
-      "first_seen_epoch_secs": 1792269864,
-      "last_seen_epoch_secs": 1792269876,
-      "score": 76.28644447921556
-    },
-    {
-      "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml",
-      "source_kind": "direct_subscription",
-      "discovered_from_feeds": [],
-      "seen_count": 2,
-      "discover_hits": 0,
-      "feed_scan_count": 0,
-      "fetch_attempts": 2,
-      "fetch_successes": 2,
-      "fetch_empty_results": 0,
-      "total_proxy_count": 508,
-      "max_proxy_count": 505,
-      "last_proxy_count": 505,
-      "total_validated_proxy_count": 76,
-      "last_validated_proxy_count": 76,
-      "total_released_proxy_count": 63,
-      "last_released_proxy_count": 63,
-      "last_error": null,
-      "first_seen_epoch_secs": 1775417792,
-      "last_seen_epoch_secs": 1792269865,
-      "score": 76.28159966846249
-    },
-    {
-      "url": "https://raw.githubusercontent.com/Barabama/FreeNodes/feat/ai-crawler-v2/nodes/clashnode.yaml",
-      "source_kind": "discovered_subscription",
-      "discovered_from_feeds": [
-        "https://github.com/Barabama/FreeNodes/tree/feat/ai-crawler-v2/nodes"
-      ],
-      "seen_count": 1,
-      "discover_hits": 0,
-      "feed_scan_count": 0,
-      "fetch_attempts": 1,
-      "fetch_successes": 1,
-      "fetch_empty_results": 0,
-      "total_proxy_count": 7049,
-      "max_proxy_count": 7049,
-      "last_proxy_count": 7049,
-      "total_validated_proxy_count": 492,
-      "last_validated_proxy_count": 492,
-      "total_released_proxy_count": 463,
-      "last_released_proxy_count": 463,
-      "last_error": null,
-      "first_seen_epoch_secs": 1792269864,
-      "last_seen_epoch_secs": 1792269878,
-      "score": 75.80651179259701
+      "first_seen_epoch_secs": 1792298705,
+      "last_seen_epoch_secs": 1792298712,
+      "score": 75.90681435887213
     },
     {
       "url": "https://raw.githubusercontent.com/Barabama/FreeNodes/feat/ai-crawler-v2/nodes/nodev2ray.txt",
@@ -460,38 +436,14 @@
       "total_proxy_count": 3754,
       "max_proxy_count": 3754,
       "last_proxy_count": 3754,
-      "total_validated_proxy_count": 192,
-      "last_validated_proxy_count": 192,
-      "total_released_proxy_count": 184,
-      "last_released_proxy_count": 184,
+      "total_validated_proxy_count": 216,
+      "last_validated_proxy_count": 216,
+      "total_released_proxy_count": 201,
+      "last_released_proxy_count": 201,
       "last_error": null,
-      "first_seen_epoch_secs": 1792269864,
-      "last_seen_epoch_secs": 1792269880,
-      "score": 75.60624223050968
-    },
-    {
-      "url": "https://raw.githubusercontent.com/Barabama/FreeNodes/feat/ai-crawler-v2/nodes/clashmeta.txt",
-      "source_kind": "discovered_subscription",
-      "discovered_from_feeds": [
-        "https://github.com/Barabama/FreeNodes/tree/feat/ai-crawler-v2/nodes"
-      ],
-      "seen_count": 1,
-      "discover_hits": 0,
-      "feed_scan_count": 0,
-      "fetch_attempts": 1,
-      "fetch_successes": 1,
-      "fetch_empty_results": 0,
-      "total_proxy_count": 3941,
-      "max_proxy_count": 3941,
-      "last_proxy_count": 3941,
-      "total_validated_proxy_count": 166,
-      "last_validated_proxy_count": 166,
-      "total_released_proxy_count": 159,
-      "last_released_proxy_count": 159,
-      "last_error": null,
-      "first_seen_epoch_secs": 1792269864,
-      "last_seen_epoch_secs": 1792269877,
-      "score": 75.42073903327086
+      "first_seen_epoch_secs": 1792298708,
+      "last_seen_epoch_secs": 1792298730,
+      "score": 75.45632806487895
     },
     {
       "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/merged/tested_within_ssr.yaml",
@@ -513,8 +465,8 @@
       "total_released_proxy_count": 1,
       "last_released_proxy_count": 1,
       "last_error": null,
-      "first_seen_epoch_secs": 1792269864,
-      "last_seen_epoch_secs": 1792269874,
+      "first_seen_epoch_secs": 1792298708,
+      "last_seen_epoch_secs": 1792298722,
       "score": 75.4
     },
     {
@@ -532,14 +484,38 @@
       "total_proxy_count": 934,
       "max_proxy_count": 934,
       "last_proxy_count": 934,
-      "total_validated_proxy_count": 14,
-      "last_validated_proxy_count": 14,
-      "total_released_proxy_count": 14,
-      "last_released_proxy_count": 14,
+      "total_validated_proxy_count": 13,
+      "last_validated_proxy_count": 13,
+      "total_released_proxy_count": 13,
+      "last_released_proxy_count": 13,
       "last_error": null,
-      "first_seen_epoch_secs": 1792269864,
-      "last_seen_epoch_secs": 1792269875,
-      "score": 75.29978586723769
+      "first_seen_epoch_secs": 1792298708,
+      "last_seen_epoch_secs": 1792298723,
+      "score": 75.27837259100643
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Barabama/FreeNodes/feat/ai-crawler-v2/nodes/clashmeta.txt",
+      "source_kind": "discovered_subscription",
+      "discovered_from_feeds": [
+        "https://github.com/Barabama/FreeNodes/tree/feat/ai-crawler-v2/nodes"
+      ],
+      "seen_count": 1,
+      "discover_hits": 0,
+      "feed_scan_count": 0,
+      "fetch_attempts": 1,
+      "fetch_successes": 1,
+      "fetch_empty_results": 0,
+      "total_proxy_count": 3941,
+      "max_proxy_count": 3941,
+      "last_proxy_count": 3941,
+      "total_validated_proxy_count": 186,
+      "last_validated_proxy_count": 186,
+      "total_released_proxy_count": 170,
+      "last_released_proxy_count": 170,
+      "last_error": null,
+      "first_seen_epoch_secs": 1792298708,
+      "last_seen_epoch_secs": 1792298725,
+      "score": 75.08370780845428
     },
     {
       "url": "https://raw.githubusercontent.com/Barabama/FreeNodes/feat/ai-crawler-v2/nodes/clashnode.txt",
@@ -556,14 +532,38 @@
       "total_proxy_count": 6789,
       "max_proxy_count": 6789,
       "last_proxy_count": 6789,
-      "total_validated_proxy_count": 163,
-      "last_validated_proxy_count": 163,
-      "total_released_proxy_count": 154,
-      "last_released_proxy_count": 154,
+      "total_validated_proxy_count": 177,
+      "last_validated_proxy_count": 177,
+      "total_released_proxy_count": 167,
+      "last_released_proxy_count": 167,
       "last_error": null,
-      "first_seen_epoch_secs": 1792269864,
-      "last_seen_epoch_secs": 1792269877,
-      "score": 74.92804130102195
+      "first_seen_epoch_secs": 1792298708,
+      "last_seen_epoch_secs": 1792298726,
+      "score": 74.95645997638253
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Barabama/FreeNodes/feat/ai-crawler-v2/nodes/clashnode.yaml",
+      "source_kind": "discovered_subscription",
+      "discovered_from_feeds": [
+        "https://github.com/Barabama/FreeNodes/tree/feat/ai-crawler-v2/nodes"
+      ],
+      "seen_count": 1,
+      "discover_hits": 0,
+      "feed_scan_count": 0,
+      "fetch_attempts": 1,
+      "fetch_successes": 1,
+      "fetch_empty_results": 0,
+      "total_proxy_count": 7049,
+      "max_proxy_count": 7049,
+      "last_proxy_count": 7049,
+      "total_validated_proxy_count": 622,
+      "last_validated_proxy_count": 622,
+      "total_released_proxy_count": 495,
+      "last_released_proxy_count": 495,
+      "last_error": null,
+      "first_seen_epoch_secs": 1792298708,
+      "last_seen_epoch_secs": 1792298727,
+      "score": 74.72298868873331
     },
     {
       "url": "https://raw.githubusercontent.com/snakem982/proxypool/main/source/v2ray-2.txt",
@@ -577,17 +577,17 @@
       "fetch_attempts": 5,
       "fetch_successes": 5,
       "fetch_empty_results": 0,
-      "total_proxy_count": 263,
+      "total_proxy_count": 259,
       "max_proxy_count": 67,
-      "last_proxy_count": 62,
+      "last_proxy_count": 58,
       "total_validated_proxy_count": 28,
       "last_validated_proxy_count": 0,
       "total_released_proxy_count": 21,
       "last_released_proxy_count": 0,
       "last_error": null,
       "first_seen_epoch_secs": 1773701984,
-      "last_seen_epoch_secs": 1792269872,
-      "score": 74.62927756653993
+      "last_seen_epoch_secs": 1792298718,
+      "score": 74.66216216216218
     },
     {
       "url": "https://raw.githubusercontent.com/Barabama/FreeNodes/feat/ai-crawler-v2/nodes/merged.txt",
@@ -604,14 +604,14 @@
       "total_proxy_count": 16509,
       "max_proxy_count": 16509,
       "last_proxy_count": 16509,
-      "total_validated_proxy_count": 234,
-      "last_validated_proxy_count": 234,
-      "total_released_proxy_count": 217,
-      "last_released_proxy_count": 217,
+      "total_validated_proxy_count": 267,
+      "last_validated_proxy_count": 267,
+      "total_released_proxy_count": 240,
+      "last_released_proxy_count": 240,
       "last_error": null,
-      "first_seen_epoch_secs": 1792269864,
-      "last_seen_epoch_secs": 1792269880,
-      "score": 74.55698601073851
+      "first_seen_epoch_secs": 1792298708,
+      "last_seen_epoch_secs": 1792298729,
+      "score": 74.31222397589057
     },
     {
       "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/merged/tested_within.yaml",
@@ -634,7 +634,7 @@
       "last_released_proxy_count": 89,
       "last_error": null,
       "first_seen_epoch_secs": 1773700902,
-      "last_seen_epoch_secs": 1792269864,
+      "last_seen_epoch_secs": 1792298709,
       "score": 71.97283381376258
     },
     {
@@ -658,7 +658,7 @@
       "last_released_proxy_count": 0,
       "last_error": null,
       "first_seen_epoch_secs": 1775417797,
-      "last_seen_epoch_secs": 1792269876,
+      "last_seen_epoch_secs": 1792298724,
       "score": 71.7173341128325
     },
     {
@@ -682,7 +682,7 @@
       "last_released_proxy_count": 0,
       "last_error": null,
       "first_seen_epoch_secs": 1775417797,
-      "last_seen_epoch_secs": 1792269876,
+      "last_seen_epoch_secs": 1792298724,
       "score": 71.7173341128325
     },
     {
@@ -705,9 +705,33 @@
       "total_released_proxy_count": 2,
       "last_released_proxy_count": 2,
       "last_error": null,
-      "first_seen_epoch_secs": 1792269864,
-      "last_seen_epoch_secs": 1792269874,
+      "first_seen_epoch_secs": 1792298708,
+      "last_seen_epoch_secs": 1792298722,
       "score": 68.80512820512821
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Barabama/FreeNodes/feat/ai-crawler-v2/nodes/yudou.yaml",
+      "source_kind": "discovered_subscription",
+      "discovered_from_feeds": [
+        "https://github.com/Barabama/FreeNodes/tree/feat/ai-crawler-v2/nodes"
+      ],
+      "seen_count": 1,
+      "discover_hits": 0,
+      "feed_scan_count": 0,
+      "fetch_attempts": 1,
+      "fetch_successes": 1,
+      "fetch_empty_results": 0,
+      "total_proxy_count": 105,
+      "max_proxy_count": 105,
+      "last_proxy_count": 105,
+      "total_validated_proxy_count": 4,
+      "last_validated_proxy_count": 4,
+      "total_released_proxy_count": 1,
+      "last_released_proxy_count": 1,
+      "last_error": null,
+      "first_seen_epoch_secs": 1792298708,
+      "last_seen_epoch_secs": 1792298731,
+      "score": 68.26190476190477
     },
     {
       "url": "https://raw.githubusercontent.com/Barabama/FreeNodes/feat/ai-crawler-v2/nodes/clashstair.yaml",
@@ -724,14 +748,14 @@
       "total_proxy_count": 55,
       "max_proxy_count": 55,
       "last_proxy_count": 55,
-      "total_validated_proxy_count": 1,
-      "last_validated_proxy_count": 1,
+      "total_validated_proxy_count": 0,
+      "last_validated_proxy_count": 0,
       "total_released_proxy_count": 0,
       "last_released_proxy_count": 0,
       "last_error": null,
-      "first_seen_epoch_secs": 1792269864,
-      "last_seen_epoch_secs": 1792269878,
-      "score": 65.36363636363637
+      "first_seen_epoch_secs": 1792298708,
+      "last_seen_epoch_secs": 1792298727,
+      "score": 65.0
     },
     {
       "url": "https://raw.githubusercontent.com/Barabama/FreeNodes/feat/ai-crawler-v2/nodes/oneclash.txt",
@@ -753,8 +777,8 @@
       "total_released_proxy_count": 0,
       "last_released_proxy_count": 0,
       "last_error": null,
-      "first_seen_epoch_secs": 1792269864,
-      "last_seen_epoch_secs": 1792269881,
+      "first_seen_epoch_secs": 1792298708,
+      "last_seen_epoch_secs": 1792298730,
       "score": 65.0
     },
     {
@@ -777,32 +801,8 @@
       "total_released_proxy_count": 0,
       "last_released_proxy_count": 0,
       "last_error": null,
-      "first_seen_epoch_secs": 1792269864,
-      "last_seen_epoch_secs": 1792269881,
-      "score": 65.0
-    },
-    {
-      "url": "https://raw.githubusercontent.com/Barabama/FreeNodes/feat/ai-crawler-v2/nodes/yudou.yaml",
-      "source_kind": "discovered_subscription",
-      "discovered_from_feeds": [
-        "https://github.com/Barabama/FreeNodes/tree/feat/ai-crawler-v2/nodes"
-      ],
-      "seen_count": 1,
-      "discover_hits": 0,
-      "feed_scan_count": 0,
-      "fetch_attempts": 1,
-      "fetch_successes": 1,
-      "fetch_empty_results": 0,
-      "total_proxy_count": 105,
-      "max_proxy_count": 105,
-      "last_proxy_count": 105,
-      "total_validated_proxy_count": 0,
-      "last_validated_proxy_count": 0,
-      "total_released_proxy_count": 0,
-      "last_released_proxy_count": 0,
-      "last_error": null,
-      "first_seen_epoch_secs": 1792269864,
-      "last_seen_epoch_secs": 1792269881,
+      "first_seen_epoch_secs": 1792298708,
+      "last_seen_epoch_secs": 1792298731,
       "score": 65.0
     },
     {
@@ -825,33 +825,9 @@
       "total_released_proxy_count": 0,
       "last_released_proxy_count": 0,
       "last_error": null,
-      "first_seen_epoch_secs": 1792269864,
-      "last_seen_epoch_secs": 1792269874,
+      "first_seen_epoch_secs": 1792298708,
+      "last_seen_epoch_secs": 1792298723,
       "score": 65.0
-    },
-    {
-      "url": "https://raw.githubusercontent.com/Barabama/FreeNodes/feat/ai-crawler-v2/nodes/cfmem.yaml",
-      "source_kind": "discovered_subscription",
-      "discovered_from_feeds": [
-        "https://github.com/Barabama/FreeNodes/tree/feat/ai-crawler-v2/nodes"
-      ],
-      "seen_count": 1,
-      "discover_hits": 0,
-      "feed_scan_count": 0,
-      "fetch_attempts": 1,
-      "fetch_successes": 1,
-      "fetch_empty_results": 0,
-      "total_proxy_count": 22,
-      "max_proxy_count": 22,
-      "last_proxy_count": 22,
-      "total_validated_proxy_count": 1,
-      "last_validated_proxy_count": 1,
-      "total_released_proxy_count": 1,
-      "last_released_proxy_count": 1,
-      "last_error": null,
-      "first_seen_epoch_secs": 1792269864,
-      "last_seen_epoch_secs": 1792269877,
-      "score": 64.7090909090909
     },
     {
       "url": "https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta.yaml",
@@ -874,7 +850,7 @@
       "last_released_proxy_count": 0,
       "last_error": "empty_result",
       "first_seen_epoch_secs": 1773700902,
-      "last_seen_epoch_secs": 1792269864,
+      "last_seen_epoch_secs": 1792298709,
       "score": 63.947692849594915
     },
     {
@@ -897,8 +873,8 @@
       "total_released_proxy_count": 0,
       "last_released_proxy_count": 0,
       "last_error": null,
-      "first_seen_epoch_secs": 1792269864,
-      "last_seen_epoch_secs": 1792269881,
+      "first_seen_epoch_secs": 1792298708,
+      "last_seen_epoch_secs": 1792298730,
       "score": 63.4
     },
     {
@@ -921,8 +897,8 @@
       "total_released_proxy_count": 0,
       "last_released_proxy_count": 0,
       "last_error": null,
-      "first_seen_epoch_secs": 1792269864,
-      "last_seen_epoch_secs": 1792269878,
+      "first_seen_epoch_secs": 1792298708,
+      "last_seen_epoch_secs": 1792298727,
       "score": 61.8
     },
     {
@@ -935,17 +911,41 @@
       "fetch_attempts": 1,
       "fetch_successes": 1,
       "fetch_empty_results": 0,
-      "total_proxy_count": 10,
-      "max_proxy_count": 10,
-      "last_proxy_count": 10,
-      "total_validated_proxy_count": 1,
-      "last_validated_proxy_count": 1,
-      "total_released_proxy_count": 1,
-      "last_released_proxy_count": 1,
+      "total_proxy_count": 20,
+      "max_proxy_count": 20,
+      "last_proxy_count": 20,
+      "total_validated_proxy_count": 2,
+      "last_validated_proxy_count": 2,
+      "total_released_proxy_count": 0,
+      "last_released_proxy_count": 0,
       "last_error": null,
-      "first_seen_epoch_secs": 1792269860,
-      "last_seen_epoch_secs": 1792269866,
-      "score": 61.0
+      "first_seen_epoch_secs": 1792298705,
+      "last_seen_epoch_secs": 1792298711,
+      "score": 55.00000000000001
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Barabama/FreeNodes/feat/ai-crawler-v2/nodes/cfmem.yaml",
+      "source_kind": "discovered_subscription",
+      "discovered_from_feeds": [
+        "https://github.com/Barabama/FreeNodes/tree/feat/ai-crawler-v2/nodes"
+      ],
+      "seen_count": 1,
+      "discover_hits": 0,
+      "feed_scan_count": 0,
+      "fetch_attempts": 1,
+      "fetch_successes": 1,
+      "fetch_empty_results": 0,
+      "total_proxy_count": 22,
+      "max_proxy_count": 22,
+      "last_proxy_count": 22,
+      "total_validated_proxy_count": 0,
+      "last_validated_proxy_count": 0,
+      "total_released_proxy_count": 0,
+      "last_released_proxy_count": 0,
+      "last_error": null,
+      "first_seen_epoch_secs": 1792298708,
+      "last_seen_epoch_secs": 1792298725,
+      "score": 53.800000000000004
     },
     {
       "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/merged/tested_within_socks5.yaml",
@@ -967,8 +967,8 @@
       "total_released_proxy_count": 0,
       "last_released_proxy_count": 0,
       "last_error": null,
-      "first_seen_epoch_secs": 1792269864,
-      "last_seen_epoch_secs": 1792269874,
+      "first_seen_epoch_secs": 1792298708,
+      "last_seen_epoch_secs": 1792298722,
       "score": 52.866666666666674
     },
     {
@@ -991,8 +991,8 @@
       "total_released_proxy_count": 0,
       "last_released_proxy_count": 0,
       "last_error": null,
-      "first_seen_epoch_secs": 1792269864,
-      "last_seen_epoch_secs": 1792269876,
+      "first_seen_epoch_secs": 1792298708,
+      "last_seen_epoch_secs": 1792298724,
       "score": 52.65
     },
     {
@@ -1015,8 +1015,8 @@
       "total_released_proxy_count": 0,
       "last_released_proxy_count": 0,
       "last_error": null,
-      "first_seen_epoch_secs": 1792269864,
-      "last_seen_epoch_secs": 1792269878,
+      "first_seen_epoch_secs": 1792298708,
+      "last_seen_epoch_secs": 1792298727,
       "score": 52.6
     },
     {
@@ -1039,8 +1039,8 @@
       "total_released_proxy_count": 0,
       "last_released_proxy_count": 0,
       "last_error": null,
-      "first_seen_epoch_secs": 1792269864,
-      "last_seen_epoch_secs": 1792269879,
+      "first_seen_epoch_secs": 1792298708,
+      "last_seen_epoch_secs": 1792298729,
       "score": 48.6
     },
     {
@@ -1063,8 +1063,8 @@
       "total_released_proxy_count": 0,
       "last_released_proxy_count": 0,
       "last_error": null,
-      "first_seen_epoch_secs": 1792269864,
-      "last_seen_epoch_secs": 1792269874,
+      "first_seen_epoch_secs": 1792298708,
+      "last_seen_epoch_secs": 1792298722,
       "score": 45.4
     },
     {
@@ -1085,8 +1085,8 @@
       "total_released_proxy_count": 0,
       "last_released_proxy_count": 0,
       "last_error": null,
-      "first_seen_epoch_secs": 1792269860,
-      "last_seen_epoch_secs": 1792269871,
+      "first_seen_epoch_secs": 1792298705,
+      "last_seen_epoch_secs": 1792298718,
       "score": 45.4
     },
     {
@@ -1107,8 +1107,8 @@
       "total_released_proxy_count": 0,
       "last_released_proxy_count": 0,
       "last_error": null,
-      "first_seen_epoch_secs": 1792269860,
-      "last_seen_epoch_secs": 1792269871,
+      "first_seen_epoch_secs": 1792298705,
+      "last_seen_epoch_secs": 1792298718,
       "score": 45.4
     },
     {
@@ -1132,7 +1132,7 @@
       "last_released_proxy_count": 0,
       "last_error": "empty_result",
       "first_seen_epoch_secs": 1773700902,
-      "last_seen_epoch_secs": 1792269865,
+      "last_seen_epoch_secs": 1792298709,
       "score": 31.966279334700392
     },
     {
@@ -1156,7 +1156,7 @@
       "last_released_proxy_count": 0,
       "last_error": null,
       "first_seen_epoch_secs": 1775417792,
-      "last_seen_epoch_secs": 1792269865,
+      "last_seen_epoch_secs": 1792298710,
       "score": 31.852380952380955
     },
     {
@@ -1180,7 +1180,7 @@
       "last_released_proxy_count": 0,
       "last_error": "empty_result",
       "first_seen_epoch_secs": 1775417797,
-      "last_seen_epoch_secs": 1792269876,
+      "last_seen_epoch_secs": 1792298724,
       "score": 31.852380952380955
     },
     {
@@ -1204,7 +1204,7 @@
       "last_released_proxy_count": 0,
       "last_error": "empty_result",
       "first_seen_epoch_secs": 1775417797,
-      "last_seen_epoch_secs": 1792269876,
+      "last_seen_epoch_secs": 1792298724,
       "score": 28.1
     },
     {
@@ -1228,7 +1228,7 @@
       "last_released_proxy_count": 0,
       "last_error": null,
       "first_seen_epoch_secs": 1773701984,
-      "last_seen_epoch_secs": 1792269873,
+      "last_seen_epoch_secs": 1792298721,
       "score": 13.8
     },
     {
@@ -1249,8 +1249,8 @@
       "total_released_proxy_count": 0,
       "last_released_proxy_count": 0,
       "last_error": null,
-      "first_seen_epoch_secs": 1792269860,
-      "last_seen_epoch_secs": 1792269864,
+      "first_seen_epoch_secs": 1792298705,
+      "last_seen_epoch_secs": 1792298708,
       "score": 5.0
     },
     {
@@ -1272,7 +1272,7 @@
       "last_released_proxy_count": 0,
       "last_error": null,
       "first_seen_epoch_secs": 1773700902,
-      "last_seen_epoch_secs": 1792269864,
+      "last_seen_epoch_secs": 1792298708,
       "score": 5.0
     },
     {
@@ -1294,7 +1294,7 @@
       "last_released_proxy_count": 0,
       "last_error": null,
       "first_seen_epoch_secs": 1773700902,
-      "last_seen_epoch_secs": 1792269864,
+      "last_seen_epoch_secs": 1792298708,
       "score": 3.7500000000000004
     },
     {
@@ -1316,7 +1316,7 @@
       "last_released_proxy_count": 0,
       "last_error": null,
       "first_seen_epoch_secs": 1773700902,
-      "last_seen_epoch_secs": 1792269864,
+      "last_seen_epoch_secs": 1792298708,
       "score": 2.7500000000000004
     },
     {
@@ -1338,7 +1338,7 @@
       "last_released_proxy_count": 0,
       "last_error": null,
       "first_seen_epoch_secs": 1775417792,
-      "last_seen_epoch_secs": 1792269864,
+      "last_seen_epoch_secs": 1792298708,
       "score": 1.7499999999999998
     },
     {
@@ -1360,7 +1360,7 @@
       "last_released_proxy_count": 0,
       "last_error": null,
       "first_seen_epoch_secs": 1775417792,
-      "last_seen_epoch_secs": 1792269864,
+      "last_seen_epoch_secs": 1792298708,
       "score": 1.5
     },
     {
@@ -1381,8 +1381,8 @@
       "total_released_proxy_count": 0,
       "last_released_proxy_count": 0,
       "last_error": null,
-      "first_seen_epoch_secs": 1792269860,
-      "last_seen_epoch_secs": 1792269864,
+      "first_seen_epoch_secs": 1792298705,
+      "last_seen_epoch_secs": 1792298708,
       "score": 0.5000000000000001
     },
     {
@@ -1427,8 +1427,8 @@
       "total_released_proxy_count": 0,
       "last_released_proxy_count": 0,
       "last_error": null,
-      "first_seen_epoch_secs": 1792269860,
-      "last_seen_epoch_secs": 1792269864,
+      "first_seen_epoch_secs": 1792298705,
+      "last_seen_epoch_secs": 1792298708,
       "score": 0.0
     },
     {
@@ -1451,8 +1451,8 @@
       "total_released_proxy_count": 0,
       "last_released_proxy_count": 0,
       "last_error": "empty_result",
-      "first_seen_epoch_secs": 1792269864,
-      "last_seen_epoch_secs": 1792269879,
+      "first_seen_epoch_secs": 1792298708,
+      "last_seen_epoch_secs": 1792298728,
       "score": 0.0
     },
     {
@@ -1475,8 +1475,8 @@
       "total_released_proxy_count": 0,
       "last_released_proxy_count": 0,
       "last_error": "empty_result",
-      "first_seen_epoch_secs": 1792269864,
-      "last_seen_epoch_secs": 1792269879,
+      "first_seen_epoch_secs": 1792298708,
+      "last_seen_epoch_secs": 1792298728,
       "score": 0.0
     },
     {
@@ -1499,8 +1499,8 @@
       "total_released_proxy_count": 0,
       "last_released_proxy_count": 0,
       "last_error": "empty_result",
-      "first_seen_epoch_secs": 1792269864,
-      "last_seen_epoch_secs": 1792269881,
+      "first_seen_epoch_secs": 1792298708,
+      "last_seen_epoch_secs": 1792298731,
       "score": 0.0
     },
     {
@@ -1523,8 +1523,8 @@
       "total_released_proxy_count": 0,
       "last_released_proxy_count": 0,
       "last_error": "empty_result",
-      "first_seen_epoch_secs": 1792269864,
-      "last_seen_epoch_secs": 1792269873,
+      "first_seen_epoch_secs": 1792298708,
+      "last_seen_epoch_secs": 1792298721,
       "score": 0.0
     },
     {
@@ -1547,8 +1547,8 @@
       "total_released_proxy_count": 0,
       "last_released_proxy_count": 0,
       "last_error": "empty_result",
-      "first_seen_epoch_secs": 1792269864,
-      "last_seen_epoch_secs": 1792269874,
+      "first_seen_epoch_secs": 1792298708,
+      "last_seen_epoch_secs": 1792298722,
       "score": 0.0
     },
     {
@@ -1571,8 +1571,8 @@
       "total_released_proxy_count": 0,
       "last_released_proxy_count": 0,
       "last_error": "empty_result",
-      "first_seen_epoch_secs": 1792269864,
-      "last_seen_epoch_secs": 1792269875,
+      "first_seen_epoch_secs": 1792298708,
+      "last_seen_epoch_secs": 1792298723,
       "score": 0.0
     },
     {
@@ -1595,8 +1595,8 @@
       "total_released_proxy_count": 0,
       "last_released_proxy_count": 0,
       "last_error": "empty_result",
-      "first_seen_epoch_secs": 1792269864,
-      "last_seen_epoch_secs": 1792269875,
+      "first_seen_epoch_secs": 1792298708,
+      "last_seen_epoch_secs": 1792298723,
       "score": 0.0
     },
     {
@@ -1619,8 +1619,8 @@
       "total_released_proxy_count": 0,
       "last_released_proxy_count": 0,
       "last_error": "empty_result",
-      "first_seen_epoch_secs": 1792269864,
-      "last_seen_epoch_secs": 1792269875,
+      "first_seen_epoch_secs": 1792298708,
+      "last_seen_epoch_secs": 1792298723,
       "score": 0.0
     },
     {
@@ -1643,8 +1643,8 @@
       "total_released_proxy_count": 0,
       "last_released_proxy_count": 0,
       "last_error": "empty_result",
-      "first_seen_epoch_secs": 1792269864,
-      "last_seen_epoch_secs": 1792269871,
+      "first_seen_epoch_secs": 1792298708,
+      "last_seen_epoch_secs": 1792298718,
       "score": 0.0
     }
   ]
